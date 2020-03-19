@@ -1,0 +1,12 @@
+[package]
+name = "rust-cv"
+version = "0.1.0"
+authors = ["Oscar Forner Martinez <oscar.forner.martinez@gmail.com>"]
+description = ""
+keywords = ["cv"]
+license = "BSD-2-Clause"
+
+[dependencies]
+tui = "0.2.0"
+termion = "1.4.0"
+rand = "0.3.15"
