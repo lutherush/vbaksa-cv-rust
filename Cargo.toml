@@ -1,10 +1,10 @@
 [package]
 name = "rust-cv"
 version = "0.1.0"
-authors = ["Oscar Forner Martinez <oscar.forner.martinez@gmail.com>"]
-description = ""
+authors = ["Velimir Baksa"]
+description = "my cv"
 keywords = ["cv"]
-license = "BSD-2-Clause"
+license = "GNU GPLv2"
 
 [dependencies]
 tui = "0.2.0"
