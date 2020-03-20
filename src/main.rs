@@ -243,7 +243,7 @@ fn draw_personal(t: &mut Terminal<RawBackend>, area: &Rect) {
                 .wrap(true)
                 .text("\n{mod=bold;fg=yellow Email:} velimir.baksa@gmail.com\n\n\
                        {mod=bold;fg=yellow Phone:} 385976136723\n\n\
-                       {mod=bold;fg=yellow Website:} https://liutherush.github.io/\n\n\
+                       {mod=bold;fg=yellow Website:} https://lutherush.github.io/\n\n\
                        {mod=bold;fg=yellow Twitter:} https://twitter.com/luterus\n\n\
                        {mod=bold;fg=yellow GitHub:} https://github.com/lutherush\n\n\
                        {mod=bold;fg=yellow LinkedIn:} http://linkedin.com/in/velimirbaksa\n\n\
